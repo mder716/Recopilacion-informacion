@@ -1,0 +1,12 @@
+[[92mnameserver-fingerprint[0m] [[94mdns[0m] [[34minfo[0m] shopify.com [[96m"ns3.dnsimple.com."[0m,[96m"ns4.dnsimple.com."[0m,[96m"dns2.p06.nsone.net."[0m,[96m"dns4.p06.nsone.net."[0m,[96m"dns3.p06.nsone.net."[0m,[96m"dns1.p06.nsone.net."[0m,[96m"ns2.dnsimple.com."[0m,[96m"ns1.dnsimple.com."[0m]
+[[92mxss-deprecated-header[0m] [[94mhttp[0m] [[34minfo[0m] https://shopify.com [[96m"1; mode=block"[0m]
+[[92mtech-detect[0m:[1;92mcloudflare[0m] [[94mhttp[0m] [[34minfo[0m] https://shopify.com
+[[92mazure-domain-tenant[0m] [[94mhttp[0m] [[34minfo[0m] https://login.microsoftonline.com:443/shopify.com/v2.0/.well-known/openid-configuration [[96m"6c0debfb-ffb9-4e62-a2a9-31e5a5b65111"[0m]
+[[92mapple-app-site-association[0m] [[94mhttp[0m] [[34minfo[0m] https://shopify.com/.well-known/apple-app-site-association [[96m"A7XGC83MZE.com.jadedpixel.shopify"[0m,[96m"A7XGC83MZE.com.jadedpixel.pos"[0m,[96m"6ZYNJZSY2C.com.jadedpixel.pos"[0m]
+[[92msecurity-txt[0m] [[94mhttp[0m] [[34minfo[0m] https://www.shopify.com/.well-known/security.txt [[96m"https://www.shopify.com/security-response"[0m,[96m"mailto:security@shopify.com"[0m]
+[[92mwaf-detect[0m:[1;92mcloudflare[0m] [[94mhttp[0m] [[34minfo[0m] https://shopify.com/
+[[92mwaf-detect[0m:[1;92mnginxgeneric[0m] [[94mhttp[0m] [[34minfo[0m] https://shopify.com/
+[[92mssl-issuer[0m] [[94mssl[0m] [[34minfo[0m] shopify.com:443 [[96m"Let's Encrypt"[0m]
+[[92mssl-dns-names[0m] [[94mssl[0m] [[34minfo[0m] shopify.com:443 [[96m"shopify.com"[0m]
+[[92mtls-version[0m] [[94mssl[0m] [[34minfo[0m] shopify.com:443 [[96m"tls12"[0m]
+[[92mtls-version[0m] [[94mssl[0m] [[34minfo[0m] shopify.com:443 [[96m"tls13"[0m]
